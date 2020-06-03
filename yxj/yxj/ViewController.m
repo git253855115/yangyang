@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  yang
+//  yxj
 //
 //  Created by yangxiujiang on 2020/6/3.
 //  Copyright © 2020 hh. All rights reserved.
@@ -17,10 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    
-    NSLog(@"行了吗");
 }
-
+///////////////////////无聊测试下/////////////////////
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
