@@ -1,18 +1,18 @@
 //
-//  yxjTests.m
-//  yxjTests
+//  yangxiujTests.m
+//  yangxiujTests
 //
-//  Created by yangxiujiang on 2020/6/3.
+//  Created by yangxiujiang on 2020/6/4.
 //  Copyright © 2020 hh. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface yxjTests : XCTestCase
+@interface yangxiujTests : XCTestCase
 
 @end
 
-@implementation yxjTests
+@implementation yangxiujTests
 
 - (void)setUp {
     [super setUp];
